@@ -1,3 +1,5 @@
+package LabVariables;
+
 import java.util.Scanner;
 
 public class Facturacion {
